@@ -1,5 +1,5 @@
 <!--
-:tomato: Login Single Sing-on
+:ticket: Login Single Sing-on
 Commit: Instalando o React
  -->
 
